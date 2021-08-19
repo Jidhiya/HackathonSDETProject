@@ -1,5 +1,6 @@
 package hackathonIndeedJobScraping;
 
+
 public class IndeedJob {
 	
 	String JobTitle;
